@@ -1,5 +1,5 @@
 #Git Practice Project
-Afia Israt
+Created by Afia Israt
 This project is for learning Git and GitHub Basic
 Here functions are used to calculate value:
 Functions:
